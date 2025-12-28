@@ -11,4 +11,4 @@ https://sweetshop.netlify.app/
 - Page Object Model (POM)
 
 ## Author
-Ahmed Musaefendic
+Ahmed Musaefendic 230302265
